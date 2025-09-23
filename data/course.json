@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ]
+  ],
+  "legacy_uid": "90a399f5-6a56-0c35-f004-38a6199acf87",
+  "instructors": {
+    "content": [
+      "af4b9835-79c7-8c76-4a36-20f599aa5904"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "305c9426-76dd-3187-2177-cf98a9972314",
+    "website": "cms-615-games-for-social-change-fall-2013"
+  },
+  "course_title": "Games for Social Change",
+  "course_description": "Run as a workshop, students collaborate in teams to design and prototype games for social change and civic engagement. Through readings, discussion, and presentations, we explore principles of game design and the social history of games. Guest speakers from academia, industry, the non-profit sector, and the gaming community contribute unique and diverse perspectives. Course culminates in an end of semester open house to showcase our games.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "CMS.815",
+  "primary_course_number": "CMS.615",
+  "course_image_thumbnail": {
+    "content": "17469da7-3947-ce8f-e034-ca8146ac7c96",
+    "website": "cms-615-games-for-social-change-fall-2013"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "9a68c1a9-5529-4113-a445-ab70863533e8",
+  "site_short_id": "cms.615-fall-2013",
+  "site_url_path": "courses/cms-615-games-for-social-change-fall-2013",
+  "title": "Course Metadata"
+}

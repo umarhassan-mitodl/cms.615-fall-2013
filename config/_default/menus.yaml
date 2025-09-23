@@ -1,0 +1,17 @@
+leftnav:
+- identifier: e095e95b-e968-9925-954e-090bd931675b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4b4885f2-f77b-a454-5fb1-fba1c14d4451
+  name: Calendar and Readings
+  pageRef: /pages/calendar-and-readings
+  weight: 20
+- identifier: e3820b1d-865e-185b-fcb8-7e903ddac0ba
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 8e06f664-783b-4d8c-7be9-55fb26ab3ef0
+  name: Serious Games
+  pageRef: /pages/serious-games
+  weight: 40
