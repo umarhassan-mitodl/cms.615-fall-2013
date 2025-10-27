@@ -16,7 +16,7 @@ YEARS
 {{< thclose >}}{{< thopen >}}
 PUBLISHERS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[Against All Odds](http://www.playagainstallodds.ca/)
+{{% resource_link "44ffc224-fcfe-4580-bc80-d45a9723837b" "Against All Odds" %}}
 {{< tdclose >}}{{< tdopen >}}
 2005
 {{< tdclose >}}{{< tdopen >}}
@@ -26,25 +26,25 @@ Developer: United Nations High Commission on Refugees.
 Funders: Microsoft, Ericsson, Datareal AB
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Darfur is Dying](https://games4sustainability.org/gamepedia/darfur-is-dying/)
+{{% resource_link "4b6fe6f8-ab98-405b-a5ef-c2604e614bba" "Darfur is Dying" %}}
 {{< tdclose >}}{{< tdopen >}}
 2006
 {{< tdclose >}}{{< tdopen >}}
 interFUEL, LLC (Take Action games)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Gray](http://www.intuitiongames.com/gray/)
+{{% resource_link "63beb39e-7ad1-4d18-b7e4-fcd55723f57d" "Gray" %}}
 {{< tdclose >}}{{< tdopen >}}
 2009
 {{< tdclose >}}{{< tdopen >}}
 Intuition games
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Hush](http://www.jamieantonisse.com/hush/about.html)
+{{% resource_link "3327d29f-f126-40a4-99ea-224268959bd4" "Hush" %}}
 {{< tdclose >}}{{< tdopen >}}
 2007–8
 {{< tdclose >}}{{< tdopen >}}
 Jaimie Antonisse
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Peter Packet Game](http://www.cisco.com/web/learning/netacad/peterpacket2/NewBuild_forweb/default.htm)
+{{% resource_link "51b1ed5b-b6cc-4c86-be2c-ef345efc3908" "Peter Packet Game" %}}
 {{< tdclose >}}{{< tdopen >}}
 2004
 {{< tdclose >}}{{< tdopen >}}
@@ -56,31 +56,31 @@ Precipice
 {{< tdclose >}}{{< tdopen >}}
 Centre for Digital Media
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Re–Mission](http://www.re-mission.net/)
+{{% resource_link "59bae0bf-8022-4c47-83f0-ad3d50cf41a1" "Re–Mission" %}}
 {{< tdclose >}}{{< tdopen >}}
 2006
 {{< tdclose >}}{{< tdopen >}}
 HopeLab
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[September 12th: A Toy World](https://www.onseriousgames.com/september-12th-a-toy-world-newsgame/)
+{{% resource_link "953946a6-428c-4559-961d-38d5fc7d3cc0" "September 12th: A Toy World" %}}
 {{< tdclose >}}{{< tdopen >}}
 2003
 {{< tdclose >}}{{< tdopen >}}
 Newsgaming, Gonzalo Frasca
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[The Cat and the Coup](http://thecatandthecoup.com/)
+{{% resource_link "4b0542ce-b1a7-48e7-a5d9-906d03807fd5" "The Cat and the Coup" %}}
 {{< tdclose >}}{{< tdopen >}}
 2011
 {{< tdclose >}}{{< tdopen >}}
 Peter Brinson, Kurosh ValaNejad
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Ulitsa Dimitrova](http://www.ulitsa-dimitrova.com/)
+{{% resource_link "a1daa569-2315-4751-a049-292ffd8045c3" "Ulitsa Dimitrova" %}}
 {{< tdclose >}}{{< tdopen >}}
 2010
 {{< tdclose >}}{{< tdopen >}}
 Lea Schönfelder and Gerard Delmàs
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[McDonald's Game](https://molleindustria.org/mcdonalds/)
+{{% resource_link "e207022e-58a6-4ecd-8344-8e9a16c30df8" "McDonald's Game" %}}
 {{< tdclose >}}{{< tdopen >}}
 2006
 {{< tdclose >}}{{< tdopen >}}
