@@ -3,8 +3,6 @@ content_type: page
 description: This section provides descriptions of the course assignments, including
   a game assessment, a reflection on creating a prototype, an alpha presentation,
   and the final paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ Game Assessment
 
 ### Due: Session 7
 
-Play one of the games from the {{% resource_link 8e06f664-783b-4d8c-7be9-55fb26ab3ef0 "serious games" %}} list, and write a 2 page assessment using the criteria described in the [Mitgutsch (PDF - 3.0MB)](http://gambit.mit.edu/readme/academic_papers/fdg2012_submission_82-1.pdf) article. Along with preparing your assessment paper, please come to class prepared to speak for about 5 minutes about your assessment. In your paper you should factor in all the criteria of the assessment framework, but for your presentation, just be prepared to talk about one or two salient criteria of the frameworks by which your game either succeeded or failed.
+Play one of the games from the {{% resource_link 8e06f664-783b-4d8c-7be9-55fb26ab3ef0 "serious games" %}} list, and write a 2 page assessment using the criteria described in the {{% resource_link "1763b79d-6d02-45b7-968b-86bef9dec09d" "Mitgutsch (PDF - 3.0MB)" %}} article. Along with preparing your assessment paper, please come to class prepared to speak for about 5 minutes about your assessment. In your paper you should factor in all the criteria of the assessment framework, but for your presentation, just be prepared to talk about one or two salient criteria of the frameworks by which your game either succeeded or failed.
 
 Reflection on Prototype Experience
 ----------------------------------
